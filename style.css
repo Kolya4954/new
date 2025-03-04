@@ -1,0 +1,26 @@
+.header-title{
+text-transform: uppercase;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.container{
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    outline: 1px solid greenyellow;
+}
+.main-text{
+    font-size: 20px;
+}
+.main-list{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+.main-item{
+}
